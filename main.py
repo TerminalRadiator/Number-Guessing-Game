@@ -1,6 +1,6 @@
 import random
 
-chance = 5
+chance = 7
 num = random.randint(1, 101)
 num_guessed = int(input("Welcome to the Number Guessing Game!!! Please guess a number: "))
 
